@@ -1,24 +1,24 @@
 [
   {
-    "id": "powertrain",
-    "title": "Powertrain Virtual Calibration & Validation",
+    "id": "arivoli-work",
+    "title": "Making complex technology work better for people.",
     "status": "In development",
-    "summary": "An engineering decision-support tool in development to connect physics-based simulation with measured test evidence, helping teams explore calibration choices and decide what to validate next.",
-    "audience": "For powertrain calibration, simulation, and validation teams.",
+    "summary": "Our work brings together software engineering, modelling, and human-centred design. We focus on clearer decisions, more effective use of technology and resources, and digital experiences that feel simple and purposeful.",
+    "audience": "A shared direction across engineering tools, sustainable technology, and digital products.",
     "steps": [
       {
-        "title": "Connect the evidence",
-        "detail": "Bring simulation outputs and existing test measurements into a common workflow."
+        "title": "Engineering intelligence",
+        "detail": "Tools that connect models, data, and practical knowledge to support analysis, testing, and better-informed decisions."
       },
       {
-        "title": "Understand the uncertainty",
-        "detail": "Explore where model predictions and measured behaviour differ, and where evidence is still missing."
+        "title": "Sustainable systems",
+        "detail": "Technology that helps people understand performance, use resources responsibly, and extend the useful life of complex systems."
       },
       {
-        "title": "Choose the next test",
-        "detail": "Prioritise measurements that could reduce uncertainty and support the next engineering decision."
+        "title": "Intuitive digital experiences",
+        "detail": "Software and interfaces designed around clarity, usability, privacy, and the people who use them."
       }
     ],
-    "note": "Currently at the concept and prototype stage. The intended workflow supports engineering judgement; physical testing and validation remain essential."
+    "note": "We develop through focused research, prototyping, and validation, with product details shared as each solution takes shape."
   }
 ]
