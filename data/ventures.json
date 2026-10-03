@@ -1,0 +1,24 @@
+[
+  {
+    "id": "powertrain",
+    "title": "Powertrain Virtual Calibration & Validation",
+    "status": "In development",
+    "summary": "An engineering decision-support tool in development to connect physics-based simulation with measured test evidence, helping teams explore calibration choices and decide what to validate next.",
+    "audience": "For powertrain calibration, simulation, and validation teams.",
+    "steps": [
+      {
+        "title": "Connect the evidence",
+        "detail": "Bring simulation outputs and existing test measurements into a common workflow."
+      },
+      {
+        "title": "Understand the uncertainty",
+        "detail": "Explore where model predictions and measured behaviour differ, and where evidence is still missing."
+      },
+      {
+        "title": "Choose the next test",
+        "detail": "Prioritise measurements that could reduce uncertainty and support the next engineering decision."
+      }
+    ],
+    "note": "Currently at the concept and prototype stage. The intended workflow supports engineering judgement; physical testing and validation remain essential."
+  }
+]
